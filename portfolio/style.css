@@ -1,0 +1,22 @@
+ul {
+  display: flex;
+  justify-content: left;
+  text-align: center;
+  align-items: center;
+  font-size: larger;
+  font-style: bold;
+  height: 50px;
+  background-color: aqua;
+  color: red;
+  margin-top: 0;
+  padding-top: 0;
+}
+ul li {
+  padding-right: 40px;
+  list-style: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
